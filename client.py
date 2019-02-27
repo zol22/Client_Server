@@ -1,9 +1,3 @@
-################################################################
-#   Name: Solange Ormeno                                       #
-#   UCID: so228                                                #                                
-#   Section: CS 356- 006                                       #
-################################################################
-
 
 import random # This generate randomized lost packets.
 import time # This will record the time.
